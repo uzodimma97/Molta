@@ -13,8 +13,7 @@
 
 .Navbar {
   width: 100%;
-  background: var(--color-background);
-  border-bottom: 1px solid #f0f0f0;
+  background: var(--color-hero);
   padding: 0;
 }
 
@@ -107,12 +106,12 @@
     gap: 12px;
   }
   
-  .btn {
+  .btn-invest {
     padding: 10px 20px;
     font-size: 14px;
   }
 
-  .btn-invest {
+  .btn-contact {
     display: none;
   }
 
