@@ -15,8 +15,7 @@ const Navbar = () => {
     <header className="Navbar">
       <div className="Navbar-container">
         <a href="#" className="flex items-center">
-          <img src={logo} alt="Molta Logo" className="h-8 w-auto mr-2 md:h-10 lg:h-12" />
-    
+          <img src={logo} alt="Molta Logo" className="h-9 w-auto mr-2 md:h-10 lg:h-12" />
         </a>
 
        {/*<nav className="navigation">
